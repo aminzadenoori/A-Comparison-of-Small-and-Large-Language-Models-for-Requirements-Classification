@@ -1,11 +1,11 @@
 
 
-```markdown
 # Prompting Strategy and Rationale
 We adopt a *Chain-of-Thought (CoT) prompting strategy with examples* for requirement classification. This approach has demonstrated strong theoretical and empirical performance in guiding language models to reason step-by-step, improving interpretability and consistency. By explicitly structuring the classification process into definitions, examples, and reasoning, we reduce ambiguity and promote reproducible labeling decisions.
 
 ---
 
+```markdown
 ### 🧠 COT with Examples Prompt
 ```text
 Let's analyze the classification step by step.
