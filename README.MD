@@ -161,6 +161,25 @@ Each script generates comprehensive CSV files containing:
 - PROMISE requirements repository with reclassified labels
 - Supports multiple classification schemes including functional vs non-functional and quality attributes
 
+## 📚 Dataset Attribution
+
+This project uses the following publicly available datasets:
+
+- **PROMISE Dataset**  
+  Originally provided for the RE'17 Data Challenge by Jane Cleland-Huang and collaborators.  
+  - Cleland-Huang, J., Mazrouee, S., Huang, L., & Port, D. (2007). *nfr* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.268542](https://doi.org/10.5281/zenodo.268542)  
+  - RE'17 Data Challenge: [http://ctp.di.fct.unl.pt/RE2017/pages/submission/data_papers/](http://ctp.di.fct.unl.pt/RE2017/pages/submission/data_papers/)  
+  - See also: Sayyad Shirabad, J. & Menzies, T.J. (2005). *The PROMISE Repository of Software Engineering Databases*. University of Ottawa. [http://promise.site.uottawa.ca/SERepository](http://promise.site.uottawa.ca/SERepository)
+
+- **Relabeled PROMISE Dataset**  
+  Provided by Dalpiaz et al. for explainable requirements classification.  
+  - Dalpiaz, F., Dell’Anna, D., Aydemir, F. B., & Çevikol, S. (2019). *explainable-re/re-2019-materials*. Zenodo. [https://doi.org/10.5281/zenodo.3309669](https://doi.org/10.5281/zenodo.3309669)
+
+- **SecReq Dataset**  
+  Used for security requirements classification.  
+  - Knauss, E., Houmb, S. H., Islam, S., Jürjens, J., & Schneider, K. (2021). *SecReq* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.4530183](https://doi.org/10.5281/zenodo.4530183)
+
+
 ## Citation
 
 If you use this replication package in your research, please cite our paper:
