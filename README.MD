@@ -166,11 +166,11 @@ Each script generates comprehensive CSV files containing:
 If you use this replication package in your research, please cite our paper:
 
 ```bibtex
-@article{zadenoori2024model,
+@article{zadenoori2025model,
   title={Does Model Size Matter? A Comparison of Small and Large Language Models for Requirements Classification},
   author={Zadenoori, Mohammad Amin and De Martino, Vincenzo and Dąbrowski, Jacek and Franch, Xavier and Ferrari, Alessio},
   journal={Submitted for publication},
-  year={2024}
+  year={2025}
 }
 ```
 
