@@ -196,7 +196,3 @@ If you use this replication package in your research, please cite our paper:
 
 For questions about this replication package, please contact:
 - Mohammad Amin Zadenoori: amin.zadenoori@unipd.it
-
-## License
-
-[Add appropriate license information based on your institution's policies]
