@@ -84,7 +84,6 @@ Each classification task was evaluated using four prompting methods:
 - Precision (P)
 - Recall (R) 
 - F1-score
-- F2-score (emphasizing recall)
 
 ### Key Experimental Features
 - Dynamic batching based on GPU memory
@@ -146,7 +145,7 @@ The experiments demonstrate that:
 
 Each script generates comprehensive CSV files containing:
 
-- Overall metrics (Precision, Recall, F1, F2)
+- Overall metrics (Precision, Recall, F1)
 - Class-specific performance metrics
 - Timing data for computational efficiency analysis
 - Comparative performance between SLMs and LLMs
