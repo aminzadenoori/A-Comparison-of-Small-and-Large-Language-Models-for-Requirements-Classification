@@ -67,7 +67,7 @@ class GrokAPIClient(APIClient):
             
         try:
             response = self.client.chat.completions.create(
-                model="grok-beta",  # Adjust model name as needed
+                model="grok-4",  # Adjust model name as needed
                 messages=prompt,
                 max_tokens=max_tokens,
                 temperature=0.0
@@ -89,7 +89,7 @@ class ClaudeAPIClient(APIClient):
         
         # Anthropic API setup
         self.base_url = "https://api.anthropic.com/v1/messages"
-        self.model = "claude-3-sonnet-20240229"  # Adjust model as needed
+        self.model = "claude-4-sonnet-20240229"  # Adjust model as needed
     
     def classify_text(self, prompt, max_tokens=1024):
         if not self.api_key:
