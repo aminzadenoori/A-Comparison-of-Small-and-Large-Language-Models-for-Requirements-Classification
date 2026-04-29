@@ -4,13 +4,13 @@ This repository contains the replication package for the research paper:
 
 **"Does Model Size Matter? A Comparison of Small and Large Language Models for Requirements Classification"**
 
-*Mohammad Amin Zadenoori¹, Vincenzo De Martino²³, Jacek Dąbrowski⁴, Xavier Franch³, and Alessio Ferrari⁵*
+<!-- *Mohammad Amin Zadenoori¹, Vincenzo De Martino²³, Jacek Dąbrowski⁴, Xavier Franch³, and Alessio Ferrari⁵*
 
 ¹ University of Padova, Italy  
 ² Software Engineering (SeSa) Lab, University of Salerno, Italy  
 ³ Universitat Politècnica de Catalunya, Spain  
 ⁴ Lero, the Research Ireland Centre for Software, University of Limerick, Ireland  
-⁵ University College Dublin (UCD), Ireland  
+⁵ University College Dublin (UCD), Ireland   -->
 
 ## Abstract
 
@@ -179,7 +179,7 @@ This project uses the following publicly available datasets:
   - Knauss, E., Houmb, S. H., Islam, S., Jürjens, J., & Schneider, K. (2021). *SecReq* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.4530183](https://doi.org/10.5281/zenodo.4530183)
 
 
-## Citation
+<!-- ## Citation
 
 If you use this replication package in your research, please cite our paper:
 
@@ -195,4 +195,4 @@ If you use this replication package in your research, please cite our paper:
 ## Contact
 
 For questions about this replication package, please contact:
-- Mohammad Amin Zadenoori: amin.zadenoori@unipd.it
+- Mohammad Amin Zadenoori: amin.zadenoori@unipd.it -->
